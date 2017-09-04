@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Tristan, Katie, and Sydney's Group Blog for CS499!
 
-You can use the [editor on GitHub](https://github.com/Immaculato/Immaculato.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+First post!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Katie and Sydney,
+You can use the [editor on GitHub](https://github.com/Immaculato/Immaculato.github.io/edit/master/README.md) to edit the Markdown for this site.
 
-### Markdown
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in the site, from the content in the Markdown files. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We can also use the config.yml to change up the structure of the website rather than just it's content, if need be. Github built out this page and made it pretty with their [Theme Chooser](https://help.github.com/articles/creating-a-github-pages-site-with-the-jekyll-theme-chooser/): It's really cool and saves a lot of time.
 
-```markdown
-Syntax highlighted code block
+Here's a quick guide on [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), which is what you'll use to edit the README.md.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Immaculato/Immaculato.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Feel free to play around!
+-Tristan
