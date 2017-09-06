@@ -1,8 +1,8 @@
-## Welcome to Tristan, Katie, and Sydney's Group Blog for CS499!
+## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
 First post!
 
-Katie and Sydney,
+Katie, Sydney, and Yang,
 You can use the [editor on GitHub](https://github.com/Immaculato/Immaculato.github.io/edit/master/README.md) to edit the Markdown for this site.
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in the site, from the content in the Markdown files. 
