@@ -3,7 +3,7 @@
 ### First Sponsor Meeting and Team Roles
 On Wednesday, September 6th, Sydney, Tristan, and Katie met with our client to get our bearings for the project. LUNA isn't currently launchable on iOS devices. Our first priority is getting the app back up and running on the newest iOS update. After that's done, we must add a few new features. For SARA, our priority is getting the email function up and running. We then need to figure out how to create location based emailing, as well as figure out how to communicate report instances (namely, the date), with LUNA.
 
-Additionally, the code for LUNA is now available[here](https://github.com/katrinamo/LUNA), and the code for SARA s now available [here](https://github.com/katrinamo/SARA-Fall17).
+Additionally, the code for LUNA is now available [here](https://github.com/katrinamo/LUNA), and the code for SARA s now available [here](https://github.com/katrinamo/SARA-Fall17).
 
 Our team roles are as follows:
 *Katie Long: Software Developer, Scrum Master
