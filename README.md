@@ -6,12 +6,14 @@ On Wednesday, September 6th, Sydney, Tristan, and Katie met with our client to g
 Additionally, the code for LUNA is now available [here](https://github.com/katrinamo/LUNA), and the code for SARA s now available [here](https://github.com/katrinamo/SARA-Fall17).
 
 Our team roles are as follows:
-*Katie Long: Software Developer, Scrum Master
-*Tristan Basil: Software Developer
-*Sydney Norman: Software Developer
-*Yang Xi: Software Developer
+* Katie Long: Software Developer, Product Owner 
+* Tristan Basil: Software Developer
+* Sydney Norman: Software Developer, Scrum Master
+* Yang Xi: Software Developer
 
 Roles might change/develop as the course continues. 
+
+-Katie
 
 ### First post!
 
