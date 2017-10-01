@@ -1,5 +1,16 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
+### Working Out the Final Architecture Design and Preparing for the Presentation [10/1/2017]
+On Sunday, October 1st, the group coordinated to get on at the same time to divvy up the final Architecture Assignment wording, although work was done throughout the week earlier to detail what exactly each part would consist of. It was determined that each user would work on the following:
+* Tristan Basil (me): Architecture diagram and design of methods using PDL
+* Katie Long: LUNA UI design and test cases
+* Sydney Norman: SARA UI design and test cases
+We then ran through each section as a QA review to ensure each was representative of our project. After reviewing the architecture diagram in particular and making some small changes, we returned to the powerpoint to make final revisions for the presentation tomorrow.
+
+-Tristan
+
+<hr>
+
 ### Meeting During Class Time [9/11/2017]
 On Monday, September 11th, Sydney, Tristan, Katie, and Yang met during class time to catch everyone up to speed and begin working on the Project Plan Assignment. Sydney created a Trello board for the team to track progress on the project, and all team members got the boards up and running during the meeting. Tristan and Katie made sure all team members had access to the Github repos, blog, and Google Drive folder.
 
@@ -38,4 +49,5 @@ We can also use the config.yml to change up the structure of the website rather 
 Here's a quick guide on [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), which is what you'll use to edit the README.md.
 
 Feel free to play around!
+
 -Tristan
