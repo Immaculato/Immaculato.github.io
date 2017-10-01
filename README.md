@@ -5,6 +5,7 @@ On Sunday, October 1st, the group coordinated to get on at the same time to divv
 * Tristan Basil (me): Architecture diagram and design of methods using PDL
 * Katie Long: LUNA UI design and test cases
 * Sydney Norman: SARA UI design and test cases
+
 We then ran through each section as a QA review to ensure each was representative of our project. After reviewing the architecture diagram in particular and making some small changes, we returned to the powerpoint to make final revisions for the presentation tomorrow.
 
 -Tristan
