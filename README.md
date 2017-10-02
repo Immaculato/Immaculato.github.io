@@ -1,21 +1,22 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
 ### Working Out the Final Architecture Design and Preparing for the Presentation [10/1/2017]
-On Sunday, October 1st, the group coordinated to get on at the same time to divvy up the final Architecture Assignment wording, although work was done throughout the week earlier to detail what exactly each part would consist of. It was determined that each user would work on the following:
-* Tristan Basil (me): Architecture diagram and design of methods using PDL
+On Sunday, October 1st, the group coordinated to get on at the same time to divvy up the final Architecture Assignment wording, although work was done throughout the week earlier to detail what exactly each part would consist of. It was determined that each member would work on the following:
+* Tristan Basil: Architecture diagram and SARA design of methods using PDL
 * Katie Long: LUNA UI design and test cases
 * Sydney Norman: SARA UI design and test cases
+* Yang Xi: LUNA design of methods using PDL
 
-We then ran through each section as a QA review to ensure each was representative of our project. After reviewing the architecture diagram in particular and making some small changes, we returned to the powerpoint to make final revisions for the presentation tomorrow.
+We then ran through each section as a QA review to ensure each was consistent and representative of our project. After reviewing the architecture diagram, method design and UI in particular and making some small changes, we returned to the powerpoint to make final revisions for the presentation tomorrow.
 
 -Tristan
 
 <hr>
 
 ### Meeting in PresentationU [9/29/2017]
-On Friday, September 29th, the group have a meeting for preparing for the presentation which will be hold on Monday. Sydney made an appointment for the group with PresentationU for and practicing and getting guidance. The presentation group meeting was hold at 2pm on the 3rd floor in FPAT. 
+On Friday, September 29th, the group had a meeting to prepare for the presentation which will be held on Monday. Sydney made an appointment for the group with PresentationU for practicing and getting guidance. The presentation group meeting was held at 2pm on the 3rd floor in FPAT. 
 
-The group dentified roles for each person in the meeting and did some practices with time. The whole meeting lasted an hour from 2pm to 3 pm, and the group will practice and get familiar with their stuffs at the weekend by self.
+The group identified roles for each person in the meeting and did some practices with time. The whole meeting lasted an hour from 2pm to 3pm, and the group will practice and get familiar with their individual parts over the weekend.
 
 -Yang
 
