@@ -12,6 +12,15 @@ We then ran through each section as a QA review to ensure each was representativ
 
 <hr>
 
+### Meeting in PresentationU [9/29/2017]
+On Friday, September 29th, the group have a meeting for preparing for the presentation which will be hold on Monday. Sydney made an appointment for the group with PresentationU for and practicing and getting guidance. The presentation group meeting was hold at 2pm on the 3rd floor in FPAT. 
+
+The group dentified roles for each person in the meeting and did some practices with time. The whole meeting lasted an hour from 2pm to 3 pm, and the group will practice and get familiar with their stuffs at the weekend by self.
+
+-Yang
+
+<hr>
+
 ### Meeting During Class Time [9/11/2017]
 On Monday, September 11th, Sydney, Tristan, Katie, and Yang met during class time to catch everyone up to speed and begin working on the Project Plan Assignment. Sydney created a Trello board for the team to track progress on the project, and all team members got the boards up and running during the meeting. Tristan and Katie made sure all team members had access to the Github repos, blog, and Google Drive folder.
 
