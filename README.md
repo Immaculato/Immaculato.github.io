@@ -1,5 +1,12 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
+### Debugging LUNA [10/20/2017]
+On Friday, October 20th, Tristan and Sydney met to debug the issues which don't allow us to open and run LUNA. We determined there were compatibility issues with the versions of Ionic, as well as linking issues with multiple HTTP packages. We were able to correct these issues and document a new set of installation instructions to prevent replication of the issue. We are now able to deploy LUNA to iOS without problems. On to the next task!
+
+- Sydney
+
+<hr>
+
 ### Working Out the Final Architecture Design and Preparing for the Presentation [10/1/2017]
 On Sunday, October 1st, the group coordinated to get on at the same time to divvy up the final Architecture Assignment wording, although work was done throughout the week earlier to detail what exactly each part would consist of. It was determined that each member would work on the following:
 * Tristan Basil: Architecture diagram and SARA design of methods using PDL
