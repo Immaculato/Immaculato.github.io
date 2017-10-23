@@ -3,7 +3,7 @@
 ### Debugging LUNA [10/20/2017]
 On Friday, October 20th, Tristan and Sydney met to debug the issues which don't allow us to open and run LUNA. We determined there were compatibility issues with the versions of Ionic, as well as linking issues with multiple HTTP packages. We were able to correct these issues and document a new set of installation instructions to prevent replication of the issue. We are now able to deploy LUNA to iOS without problems. On to the next task!
 
-- Sydney
+-Sydney
 
 <hr>
 
