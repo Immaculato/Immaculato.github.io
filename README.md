@@ -1,5 +1,16 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
+### (LATE POST) Meeting with Kaylynne and New Daily Questions [10/25/2017]
+This post contains meeting events that are out of order. 
+
+Previously: On Friday, October 13th, the team met with Kaylynne to discuss the updated questions for the "Daily Questions" portion of the app. We discussed how to allow users to preference when they would like to answer questions, if users should be able to answer "Other" for certain questions and fill in the blanks, and talked about the new selfie reporting questions and their format. At the time, we also discussed the compilation issues we were having with Ionic to keep her up to date. These issues are now moot, as we are able to simulate the app.
+
+Currently: Next up is adding the new questions in and maybe updating some onboarding questions. Some of the possible responses make no sense for humans, so we might ask Kaylynne if those are strictly necessary in the application.
+
+-Katie
+
+<hr>
+
 ### Debugging LUNA [10/20/2017]
 On Friday, October 20th, Tristan and Sydney met to debug the issues which don't allow us to open and run LUNA. We determined there were compatibility issues with the versions of Ionic, as well as linking issues with multiple HTTP packages. We were able to correct these issues and document a new set of installation instructions to prevent replication of the issue. We are now able to deploy LUNA to iOS without problems. On to the next task!
 
