@@ -1,5 +1,14 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
+### Meeting with Kaylynne Glover Friday and the New Goals for our Program[11/10/2017]
+This is the post which records the meeting on Friday, November 10th, 2017 at 5pm. Our team met with Ms.Kaylynne Glover to discuss the current state of the coding assignment, and make clear about the future plans. in general, we talked about 4 points. First, the calendar should show what days the user are probably going to have a period. This question will use the onboarding answers for the new one. Second, the progress tab need to be removed. Third,  the program need to switch to BLUEHOST. Forth, the program can be able to change the data within 24 hours, but no earlier. It means there will be a limit time for user to change their answers. They can not change their answer less than one day since their answers are recorded to the server.
+
+Since the SARA program is still needed to be discussed, our team will wait for the reply of SARA, fix the bug for coding assignment and focus on the maintenance of our program.
+
+-Yang
+
+<hr>
+
 ### (LATE POST) Meeting with Kaylynne and New Daily Questions [10/25/2017]
 This post contains meeting events that are out of order. 
 
