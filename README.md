@@ -1,7 +1,7 @@
 ## Welcome to Tristan, Katie, Sydney, and Yang's Group Blog for CS499!
 
-### Meeting with Kaylynne Glover Friday and the New Goals for our Program [11/11/2017]
-On November 11th, the team divied out final parts for the Coding Assignment report. Because we only ended up coding on LUNA this semester, our report reflects that by only representing LUNA and the PHP server it uses. 
+### Divvying up and working on the Coding Assignment report [11/11/2017]
+On November 11th, the team divvied out final parts for the Coding Assignment report. Because we only ended up coding on LUNA this semester, our report reflects that by only representing LUNA and the PHP server it uses. 
 
 The part divisons were as follows:
 
