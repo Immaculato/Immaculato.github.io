@@ -56,10 +56,12 @@ We then ran through each section as a QA review to ensure each was consistent an
 
 <hr>
 
-### Meeting in PresentationU [9/29/2017]
-On Friday, September 29th, the group had a meeting to prepare for the presentation which will be held on Monday. Sydney made an appointment for the group with PresentationU for practicing and getting guidance. The presentation group meeting was held at 2pm on the 3rd floor in FPAT. 
+### Meeting in Presentation U [9/29/2017]
+On Friday, September 29th, our group had a meeting to prepare for the presentation. The presentation will be held on Monday. Sydney made an appointment for the group with Presentation U to plan and practice the presetation. Also we get guidance in the meeting. The presentation group meeting was held at 2pm on the 3rd floor in FPAT. 
 
-The group identified roles for each person in the meeting and did some practices with time. The whole meeting lasted an hour from 2pm to 3pm, and the group will practice and get familiar with their individual parts over the weekend.
+The group identified roles for each person in the meeting: Sydney holds the part of introduction of the whole projct, like outlines and contects; Katie holds the part of introduction of LUNA and SARA details, and also our jobs for LUNA; Yang holds the part of user stories for LUNA and SARA; Tristan holds the part of the introduction and explain of Architecture Diagram.
+
+The whole meeting lasted an hour from 2pm to 3pm. Our tutor explained some of notes that we need to notice in a presentation, and then the group practised two times in the meeting. Since this is just a start for the presentation, after the meeting we still need to do more practice to get familiar with their individual parts over the weekend.
 
 -Yang
 
